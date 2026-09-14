@@ -1,0 +1,32 @@
+SAGE LOCAL v0.2.3 - WINDOWS QUICK START
+
+1. Close the old SAGE Local launcher window.
+2. Extract All from sage-ship-deposit-v0.2.3-WINDOWS-APP.zip.
+3. Double-click START-WINDOWS.cmd. Use Chrome or Edge with Phantom.
+4. Connect your ship wallet. Its profile is found automatically when
+   supported public history is available. Choose if several are found.
+5. Select your ship, quantity and faction CSS. If no profile was found,
+   use Check older activity or paste a successful SAGE transaction link.
+6. Stay in the SAME Phantom account. It also pays SOL fees and rent.
+   No second account is required. Separate funding is optional.
+7. Click Review my deposit. This checks live ownership and simulates.
+8. Review the details, approve once in Phantom, then choose
+   Send this deposit. Check confirmation until finalized.
+
+No personal RPC setup is needed for the tested public connection.
+No inventory search runs. A catalog listing does NOT mean you own that ship.
+Profile history reads are bounded and do not run in the background.
+TIP and Ruch registration hints are included. Other types use an existing
+CSS escrow registration, or a manual public SAGE registration under Advanced.
+Read README.md for nonstandard holding accounts and missing registrations.
+
+Keep the launcher open. No installation or home-server hosting is required.
+If the old version still appears, close its launcher and start this copy.
+Do not run from inside the ZIP. Do not use GitHub's automatic source ZIP.
+
+Never enter a seed phrase/private key or bypass Phantom warnings.
+Never retry an uncertain submission or clear its pending browser record.
+This version is experimental and not independently audited. One user-approved
+single-wallet TIP deposit into ONI CSS finalized successfully. That test does
+not establish that every ship or account configuration works. See README.md
+for the public receipt and test limits.

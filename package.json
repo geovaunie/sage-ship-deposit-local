@@ -1,0 +1,12 @@
+{
+  "name": "sage-ship-deposit-local",
+  "version": "0.2.3",
+  "releaseVersion": "0.2.3",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "Local browser-only experimental SAGE ship deposit workaround",
+  "scripts": {"build":"node scripts/build.mjs", "start":"node scripts/serve.mjs", "test":"node --test tests/*.test.mjs"},
+  "dependencies": {"@solana/web3.js":"1.98.4", "@solana/spl-token":"0.4.15", "@staratlas/anchor":"0.25.1", "@staratlas/sage":"1.8.10", "buffer":"6.0.3", "tweetnacl":"1.0.3", "bs58":"6.0.0"},
+  "devDependencies": {"esbuild":"0.25.10"}
+}
